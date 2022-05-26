@@ -1,0 +1,52 @@
+.container{
+    padding: 30px;
+   
+}
+
+
+
+
+.header{
+font-family: 'Roboto Slab';
+font-style: normal;
+font-weight: 700;
+font-size: 55px;
+line-height: 101.38%;
+margin: 30px;
+}
+
+
+.center{
+    display: flex;
+   
+}
+
+
+.centerinsidediv{
+    margin: 30px;
+}
+
+
+.footer{
+    display: flex;
+    justify-content:space-around;
+}
+
+
+.img2{
+
+width: 232px;
+height: 203px;
+left: 124px;
+top: 670px;
+}
+
+
+p{
+height: 39px;
+width: 150px;
+left: 733px;
+top: 780px;
+border-radius: nullpx;
+
+}
